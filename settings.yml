@@ -1,0 +1,9 @@
+# Slack関連
+slack_url: https://hooks.slack.com/services/*****
+channel:
+  qiita: qiita_feed_
+
+# Qiitaフィード関連
+tag:
+  - kotlin
+  - spring
